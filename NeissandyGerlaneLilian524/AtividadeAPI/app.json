@@ -1,0 +1,12 @@
+{
+  "name": "AtividadeAPI",
+  "displayName": "AtividadeAPI",
+  "expo": {
+    "name": "AtividadeAPI",
+    "slug": "AtividadeAPI",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
